@@ -2,7 +2,7 @@
 
 This project presents a model that uses deep learning to classify images of transport vehicles. It is implemented in Python using PyTorch, a popular open-source machine learning library.
 
-The model is trained and evaluated on a multi-class image dataset that contains images of different types of transport vehicles, specifically airplanes and cars. 
+The model is trained and evaluated on a multi-class image dataset that contains images of different types of transport vehicles, specifically airplanes, ships and cars. 
 
 ## Requirements
 This project was developed on Google Colab and uses the following libraries:
